@@ -1,27 +1,15 @@
 # Buscante
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
+![Screenshot 2024-01-27 144131](https://github.com/hgbeleza/angular-buscante/assets/152991608/bca77bc0-18a0-4e32-a690-1ac8a1684c00)
 
-## Development server
+Buscante é um projeto que visa melhorar a busca pelo seu livro favorito desenvolvido em Angular utilizando a API do google livros.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Esse projeto foi desenvolvido na versão 14.0.3 do [Angular CLI](https://github.com/angular/angular-cli).
 
-## Code scaffolding
+É importante você ter instalado o NodeJs na versão 16.14.2
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+## Rodar o servidor
 
-## Build
+Execute o comando `ng serve` e depois navegue até `http://localhost:4200/`.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![Screenshot 2024-01-27 144157](https://github.com/hgbeleza/angular-buscante/assets/152991608/bbe17992-9ba7-48a3-a94e-e9ac45faace5)
