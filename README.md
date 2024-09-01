@@ -1,4 +1,4 @@
-# Buscante
+# Angular Buscante
 
 ![Screenshot 2024-01-27 144131](https://github.com/hgbeleza/angular-buscante/assets/152991608/bca77bc0-18a0-4e32-a690-1ac8a1684c00)
 
